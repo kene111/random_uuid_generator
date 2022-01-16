@@ -7,6 +7,6 @@ whenever the API is called, it should return all the previous UUIDs ever generat
 1) uuid_gen: This is the django project.
 2) uuidGen: This is the django app.
 
-![API Output](images/image_1.png)
+![API Output](image/image_1.png)
 
 
