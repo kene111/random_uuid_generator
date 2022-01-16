@@ -9,4 +9,12 @@ whenever the API is called, it should return all the previous UUIDs ever generat
 
 ![API Output](image/image_1.png)
 
+## Running The Code:
+1) Create a new folder locally and clone the repo.
+2) On your local folder, using your command line interface create and activate a virtual enviroment.
+3) Install the dependencies from the requirements.txt file.
+4) Run the application.
+
+
+
 
